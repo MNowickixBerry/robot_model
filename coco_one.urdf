@@ -1,7 +1,7 @@
 <robot name="coco_one">
   <link name="base_link">
     <visual>
-      <origin rpy="0 0 0" xyz="0.0 0 0.0"/>
+      <origin rpy="1.57 0 1.57" xyz="-0.45 -0.35 0"/>
       <geometry>
         <mesh filename="https://raw.githubusercontent.com/MNowickixBerry/robot_model/main/coco_one_simple.stl" scale="0.001 0.001 0.001"/>
       </geometry>
